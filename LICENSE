@@ -1,4 +1,9 @@
+  @jstune/http-proxy
 
+  Copyright (c) 2024 Siglar Development AS & the Contributors.
+
+  This is a copy of node-http-proxy, their license-terms do also apply for our package:
+  
   node-http-proxy
 
   Copyright (c) 2010-2016 Charlie Robbins, Jarrett Cruger & the Contributors.
