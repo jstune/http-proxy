@@ -1,15 +1,12 @@
 {
-  "name": "http-proxy",
+  "name": "@jstune/http-proxy",
   "version": "1.18.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/http-party/node-http-proxy.git"
+    "url": "https://github.com/jstune/http-proxy.git"
   },
   "description": "HTTP proxying for the masses",
-  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
-  "maintainers": [
-    "jcrugzz <jcrugzz@gmail.com>"
-  ],
+  "author": "Siglar Development AS",
   "main": "index.js",
   "dependencies": {
     "eventemitter3": "^4.0.0",
